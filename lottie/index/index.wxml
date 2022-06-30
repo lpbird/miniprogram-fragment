@@ -1,0 +1,4 @@
+<view style="text-align: center;">
+  <canvas id="lottie1" type="2d" class="lottie-demo" />
+  <canvas id="lottie2" type="2d" class="lottie-demo" />
+</view>
